@@ -38,7 +38,7 @@ $ ./example.py
 
 * **David Kristoffersen** - *Initial work* - [cube_ai](https://github.com/davidkristoffersen)
 
-See also the list of [contributors](https://github.com/davidkristoffersen/cube_ai/contributors.md) who participated in this project.
+See also the list of [contributors](https://github.com/davidkristoffersen/cube_ai/blob/master/contributors.md) who participated in this project.
 
 ## License
 
