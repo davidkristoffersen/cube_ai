@@ -1,4 +1,4 @@
-from .cube import Cube
+from .rubiks_cube.cube import Cube
 from .patterns import Patterns
 
 class Cube_AI(Cube):
