@@ -22,7 +22,7 @@ import cube_ai
 
 ### Example test
 
-An example file `example.py` is provided to show usage of the module.
+An example file `example.py` is provided to show the usage of the module.
 
 **Running:**
 
@@ -38,7 +38,7 @@ $ ./example.py
 
 * **David Kristoffersen** - *Initial work* - [cube_ai](https://github.com/davidkristoffersen)
 
-See also the list of [contributors](https://github.com/davidkristoffersen/rubiks_cube/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/davidkristoffersen/cube_ai/contributors.md) who participated in this project.
 
 ## License
 
