@@ -1,4 +1,4 @@
 [submodule "cube_ai/rubiks-cube"]
-	path = cube_ai/rubiks_cube/
-	url = https://github.com/davidkristoffersen/rubiks-cube
+	path = cube_ai/rubiks_cube
+	url = https://github.com/davidkristoffersen/rubiks_cube
 	branch = master

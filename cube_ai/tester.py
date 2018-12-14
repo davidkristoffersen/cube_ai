@@ -1,4 +1,4 @@
 #!/usr/bin/env python3.7
-import cube
+from rubiks_cube import cube
 
-print(Cube(3))
+# print(Cube(3))
