@@ -1,14 +1,12 @@
 # cube_ai
 
-# Project Title
-
 Cube AI is a rubik's cube solver for a rubik's cube of size `n`.
 
-### Prerequisites
+## Prerequisites
 
 * Python 3.7+
 
-### Installation
+## Installation
 
 ```sh
 $ git clone https://github.com/davidkristoffersen/cube_ai
