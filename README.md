@@ -1,4 +1,4 @@
-# cube_ai
+# Rubik's Cube AI
 
 Cube AI is a rubik's cube solver for a rubik's cube of size `n`.
 
