@@ -26,5 +26,6 @@ if __name__ == '__main__':
     # ai.scramble()
     # ai.solve()
     # ai.print_arr()
-    ai.checker()
+    # ai.checker()
+    ai.dot()
     print(ai)

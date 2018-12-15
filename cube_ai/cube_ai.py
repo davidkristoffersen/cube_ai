@@ -9,6 +9,9 @@ class Cube_AI(Cube):
     def checker(self):
         self.input(self.patterns['checker'])
 
+    def dot(self):
+        self.input(self.patterns['m_dot'])
+
     def benchmark(self):
         for i in range(10000):
             self.input('l')
