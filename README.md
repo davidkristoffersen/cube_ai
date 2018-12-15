@@ -1,6 +1,6 @@
 # Rubik's Cube AI
 
-Cube AI is a rubik's cube solver for a rubik's cube of size `n`.
+Cube AI is a Rubik's cube solver for a Rubik's cube of size `n`.
 
 ## Prerequisites
 
@@ -20,14 +20,14 @@ Import the module in a `python` file:
 import cube_ai
 ```
 
-### Example test
+## Testing
 
-An example file `example.py` is provided to show the usage of the module.
+The module contain a `__main__.py` that is used to run the module independently.
 
 **Running:**
 
 ```sh
-$ ./example.py
+$ python3 -m cube_ai
 ```
 
 ## Built With
