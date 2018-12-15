@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.7
 
-from . import *
+from cube_ai import *
 
 from sys import argv
 import re
@@ -26,5 +26,6 @@ if __name__ == '__main__':
     # ai.scramble()
     # ai.solve()
     # ai.print_arr()
-    ai.checker()
+    # ai.checker()
+    ai.dot()
     print(ai)
