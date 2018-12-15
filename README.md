@@ -22,7 +22,7 @@ import cube_ai
 
 ## Testing
 
-The module contain a `__main__.py` that is used to run the module independently.
+The module contain the file `__main__.py` which is used to run the module independently.
 
 **Running:**
 
